@@ -18,7 +18,7 @@ Shopigo is a React.js–based online e-commerce web application that simulates r
 - React.js  
 - JavaScript (ES6+)  
 - HTML5  
-- CSS3  
+- Tailwind CSS  
 - Fake APIs / Mock Backend  
 
 ## 📌 Admin Dashboard
