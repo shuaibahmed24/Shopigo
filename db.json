@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "e49d",
+      "name": "t shirt",
+      "category": "winter collection",
+      "price": 7888,
+      "description": "high quality",
+      "image": ""
+    },
+    {
+      "id": "effd",
+      "name": "t shirt",
+      "category": "winter collection",
+      "price": 8999,
+      "description": "high quality",
+      "image": ""
+    },
+    {
+      "id": "ccae",
+      "name": "jewellery",
+      "category": "gold",
+      "price": 56666,
+      "description": "high quality",
+      "image": ""
+    }
+  ],
+  "orders": [],
+  "users": [],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Electronics"
+    },
+    {
+      "id": "2",
+      "name": "Furniture"
+    },
+    {
+      "id": "3",
+      "name": "Fashion"
+    },
+    {
+      "id": "4",
+      "name": "jewellery"
+    }
+  ]
+}
